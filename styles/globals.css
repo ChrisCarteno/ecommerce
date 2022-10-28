@@ -354,8 +354,8 @@ padding: 20px 10px;
 .item-desc .flex{
   display: flex;
   justify-content: space-between;
-  width: 350px;
-   color: #324d67;
+  width: 330px;
+  color: #324d67;
 
 }
 .item-desc .bottom{
@@ -711,7 +711,7 @@ margin-top: 160px;
   }
 
 .item-desc .flex{
-  width: 200px;
+  width: 180px;
 }
 .top{
   flex-wrap: wrap;
